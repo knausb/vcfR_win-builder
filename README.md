@@ -13,7 +13,7 @@ Download it to a local directory, open R and use the following command to instal
 This example assumes the *.zip archive is in your working directory.
 
 
-This version built on 2015-11-16
+This version built on 2015-11-23
 
 
 
@@ -28,6 +28,6 @@ In the mean time, I've placed my version here.
 In general, I do not recommend using this version.
 But if you are specifically interested in the problem of using mclapply in Windows, this may be a solution.
 
-
+This version built 2015-11-23
 
 
